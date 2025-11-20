@@ -1,13 +1,32 @@
 {
   "project_info": {
-    "project_number": "904927082852",
-    "project_id": "madhw2-564c6",
-    "storage_bucket": "madhw2-564c6.firebasestorage.app"
+    "project_number": "885042257592",
+    "project_id": "hw2mad",
+    "storage_bucket": "hw2mad.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:904927082852:android:459d0d8f7c5bcccd696271",
+        "mobilesdk_app_id": "1:885042257592:android:8daae9746dd4276a4b9e4d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4mxDhK-so0CE8quwwLXOcF4lKiNhgbeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885042257592:android:e5e1401ab4a774b24b9e4d",
         "android_client_info": {
           "package_name": "com.vignesh.messageboard"
         }
@@ -15,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCNBAc2C0BiPsN3Kqfkgahr7HslaOS2P90"
+          "current_key": "AIzaSyC4mxDhK-so0CE8quwwLXOcF4lKiNhgbeo"
         }
       ],
       "services": {

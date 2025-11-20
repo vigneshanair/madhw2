@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyCwlwFEoX-YGE48pEQIRz9X7eTgJCljKt8</string>
+	<string>AIzaSyAPrCCX2EMpVYG-jhRrdTvz6NU-oJ2rLtI</string>
 	<key>GCM_SENDER_ID</key>
-	<string>915489255659</string>
+	<string>885042257592</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.example.flutterApplication1</string>
 	<key>PROJECT_ID</key>
-	<string>homework02-9c2fc</string>
+	<string>hw2mad</string>
 	<key>STORAGE_BUCKET</key>
-	<string>homework02-9c2fc.firebasestorage.app</string>
+	<string>hw2mad.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:915489255659:ios:1ad2ede1b566be11df8eae</string>
+	<string>1:885042257592:ios:941d0ae1f384a96e4b9e4d</string>
 </dict>
 </plist>
